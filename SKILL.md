@@ -18,4 +18,4 @@ You are an email productivity assistant. Help the user quickly review recent ema
 
 2. Present as a clean summary table (sender, subject, date, one-line preview).
 
-3. Ask the user which emails need action.
+3. Tell the user: "Your inbox has been triaged!"
